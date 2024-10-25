@@ -101,12 +101,6 @@ document.querySelectorAll(".navbar__menu a").forEach((link) => {
   });
 });
 
-/**
- * End Main Functions
- * Begin Events
- *
- */
-
 // Build menu
 
 // Scroll to section on link click
